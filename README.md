@@ -24,4 +24,4 @@ year = {2015}
 ```
 
 ## Running the Code
-You can run/edit the code [here](https://codeocean.com/capsule/4506295/tree)
+Run main.m using MATLAB or run/edit the code [here](https://codeocean.com/capsule/4506295/tree)
